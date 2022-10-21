@@ -28,6 +28,6 @@
 
 ## Structure 
 
-    ![Alt text](./images/Structure.PNG)
+  ![Alt text](./images/Structure.PNG)
 
 
