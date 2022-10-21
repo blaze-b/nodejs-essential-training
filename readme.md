@@ -30,4 +30,6 @@
 
   ![Alt text](./images/Structure.PNG)
 
+## A Better Way to JS
 
+  ![Alt text](./images/image-3.PNG)
