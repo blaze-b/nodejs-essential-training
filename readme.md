@@ -2,7 +2,7 @@
 
 ## What?
 
-- As an asynchronous event driven JS runtime Node is designed to build scalable network applications
+- Asynchronous event driven JS runtime Node is designed to build scalable network applications
 - Lightweight alternative
 
 
@@ -33,3 +33,17 @@
 ## A Better Way to JS
 
   ![Alt text](./images/image-3.PNG)
+
+## Release Candance
+
+  ![Alt text](./images/image-4.PNG)
+
+## Not a best fit
+
+  ![Alt text](./images/image-5.PNG)
+
+
+# How is node.js different?
+
+  ![Alt text](./images/image-6.PNG)
+
